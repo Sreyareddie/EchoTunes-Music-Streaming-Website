@@ -3,7 +3,7 @@ import Player from "./components/Player";
 import SideBar from "./components/SideBar";
 import React, { useContext } from "react";
 import { PlayerContext } from "./context/PlayerContext";
-export const url = "http://localhost:4000";
+export const url = "https://echotunes-musicplayer-backend.onrender.com";
 function App() {
   const { audioRef, track, songsData } = useContext(PlayerContext);
   return (
