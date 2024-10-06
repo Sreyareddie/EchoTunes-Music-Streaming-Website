@@ -7,7 +7,7 @@ Built from the ground up using the MERN stack (MongoDB, Express.js, React.js, No
 
 [Live Demo](https://echotunes-musicplayer-frontend.onrender.com/)
 
- <p align="center">Incase there is blank screen when demo website is open wait for 60 seconds and refresh the page as the resources are in sleep mode</p>
+ <p align="center">NOTE: In case there is blank screen when demo website is open wait for 60 seconds and refresh the page as the resources are in sleep mode</p>
 
 ---
 
