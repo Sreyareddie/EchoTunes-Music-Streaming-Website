@@ -1,16 +1,13 @@
 # <p align="center">EchoTunes Frontend</p>
 
 <p align="center"><img src="EchoTunes/src/assets/Screenshot 1.png" alt="EchoTunes screen capture" style="max-width: 100% !important"></p>
-<p align="center">✨🚀<em>Pizza Fleet is a pizza delivery web application that allows customers to order pizzas online. The application also allows customers to manage their profile, view their orders history and shipping addresses, and switch between light and dark mode. It is built using modern web technologies and provides an intuitive and easy-to-use interface for customers to order their favorite pizzas.
-<br>
-Built from scratch with MERN Stack (ReactJS, NodeJS, ExpressJS, MongoDB).</em>✨🚀</p>
+<p align="center">✨<em>Echotunes is a dynamic music player web application that allows users to browse, create, and manage playlists, listen to their favorite tracks, and enjoy a seamless audio experience. Users can sign up,and log in, as well as manage playlists and explore curated music collections. The app features a sleek, responsive design, offering a user-friendly interface for music enthusiasts.
+ <br>
+Built from the ground up using the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled with Tailwind CSS, Echotunes offers a modern, smooth, and immersive music experience.</em>✨</p>
 
 [Live Demo](https://echotunes-musicplayer-frontend.onrender.com/)
 
  <p align="center">EchoTunes Admin</p>
-
-<p align="center"><img src="![Screenshot admin](https://github.com/user-attachments/assets/78bf7139-41c7-4881-9d46-65fc12736b25)
-" alt="EchoTunes screen capture" style="max-width: 100% !important"></p>
 
 ---
 
